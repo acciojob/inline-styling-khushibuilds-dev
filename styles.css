@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body{
+	background-color: yellow;
+	text-align: center;
+}
+ #f1{
+	 font-style: italic;
+	 font-size: 40px;
+	 color: white;
+	 text-shadow: 0 0 10px #ff00de, 0 0 20px #ff00de;
+	 
+ }
+ #f2{
+	 font-style: italic;
+	 font-size: 40px;
+	 color: white;
+	 text-shadow: 0 0 10px #ff00de, 0 0 20px #ff00de;
+	 
+ }
